@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmx:home|Door43 (dmx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmx|d43-dmx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmx/archive/master.zip|d43-dmx.zip]]
+
+**Recent Changes**
+{{changes>ns = dmx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmx|Ethnologue data]]
+
